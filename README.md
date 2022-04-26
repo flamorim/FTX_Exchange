@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 Hello,
 This was a challenge to myself to use async mode to collect data from FTX Exchange.
